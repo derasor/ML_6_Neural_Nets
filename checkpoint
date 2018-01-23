@@ -1,0 +1,2 @@
+model_checkpoint_path: "tune_model.ckpt"
+all_model_checkpoint_paths: "tune_model.ckpt"
